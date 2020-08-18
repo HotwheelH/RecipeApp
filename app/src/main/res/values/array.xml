@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="breakfast">
+        <item>American Pancakes</item>
+        <item>Beans on Toast</item>
+        <item>Poached Eggs</item>
+        <item>Cheese on Toast</item>
+        <item>American Pancakes</item>
+        <item>Beans on Toast</item>
+        <item>Poached Eggs</item>
+        <item>Cheese on Toast</item>
+        <item>American Pancakes</item>
+        <item>Beans on Toast</item>
+        <item>Poached Eggs</item>
+        <item>Cheese on Toast</item>
+        <item>American Pancakes</item>
+        <item>Beans on Toast</item>
+        <item>Poached Eggs</item>
+        <item>Cheese on Toast</item>
+    </string-array>
+
+
+<string-array name="lunch">
+    <item>American Pancakes</item>
+    <item>Beans on Toast</item>
+    <item>Poached Eggs</item>
+    <item>Cheese on Toast</item>
+    <item>American Pancakes</item>
+    <item>Beans on Toast</item>
+    <item>Poached Eggs</item>
+    <item>Cheese on Toast</item>
+    <item>American Pancakes</item>
+    <item>Beans on Toast</item>
+    <item>Poached Eggs</item>
+    <item>Cheese on Toast</item>
+    <item>American Pancakes</item>
+    <item>Beans on Toast</item>
+    <item>Poached Eggs</item>
+    <item>Cheese on Toast</item>
+</string-array>
+
+    <string-array name="dinner">
+        <item>American Pancakes</item>
+        <item>Beans on Toast</item>
+        <item>Poached Eggs</item>
+        <item>Cheese on Toast</item>
+        <item>American Pancakes</item>
+        <item>Beans on Toast</item>
+        <item>Poached Eggs</item>
+        <item>Cheese on Toast</item>
+        <item>American Pancakes</item>
+        <item>Beans on Toast</item>
+        <item>Poached Eggs</item>
+        <item>Cheese on Toast</item>
+        <item>American Pancakes</item>
+        <item>Beans on Toast</item>
+        <item>Poached Eggs</item>
+        <item>Cheese on Toast</item>
+    </string-array>
+</resources>
