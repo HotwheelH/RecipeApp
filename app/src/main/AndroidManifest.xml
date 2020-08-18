@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".AmericanPancakes"></activity>
+        <activity android:name=".PoachedEggs"></activity>
+        <activity android:name=".BeansOnToast" />
+        <activity android:name=".AmericanPancakes" />
         <activity android:name=".DinnerActivity" />
         <activity android:name=".LunchActivity" />
         <activity android:name=".BreakfastActivity" />
