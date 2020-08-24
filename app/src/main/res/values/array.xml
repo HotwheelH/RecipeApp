@@ -5,18 +5,6 @@
         <item>Beans on Toast</item>
         <item>Poached Eggs</item>
         <item>Cheese on Toast</item>
-        <item>American Pancakes</item>
-        <item>Beans on Toast</item>
-        <item>Poached Eggs</item>
-        <item>Cheese on Toast</item>
-        <item>American Pancakes</item>
-        <item>Beans on Toast</item>
-        <item>Poached Eggs</item>
-        <item>Cheese on Toast</item>
-        <item>American Pancakes</item>
-        <item>Beans on Toast</item>
-        <item>Poached Eggs</item>
-        <item>Cheese on Toast</item>
     </string-array>
 
 
@@ -25,33 +13,9 @@
     <item>Beans on Toast</item>
     <item>Poached Eggs</item>
     <item>Cheese on Toast</item>
-    <item>American Pancakes</item>
-    <item>Beans on Toast</item>
-    <item>Poached Eggs</item>
-    <item>Cheese on Toast</item>
-    <item>American Pancakes</item>
-    <item>Beans on Toast</item>
-    <item>Poached Eggs</item>
-    <item>Cheese on Toast</item>
-    <item>American Pancakes</item>
-    <item>Beans on Toast</item>
-    <item>Poached Eggs</item>
-    <item>Cheese on Toast</item>
 </string-array>
 
     <string-array name="dinner">
-        <item>American Pancakes</item>
-        <item>Beans on Toast</item>
-        <item>Poached Eggs</item>
-        <item>Cheese on Toast</item>
-        <item>American Pancakes</item>
-        <item>Beans on Toast</item>
-        <item>Poached Eggs</item>
-        <item>Cheese on Toast</item>
-        <item>American Pancakes</item>
-        <item>Beans on Toast</item>
-        <item>Poached Eggs</item>
-        <item>Cheese on Toast</item>
         <item>American Pancakes</item>
         <item>Beans on Toast</item>
         <item>Poached Eggs</item>
