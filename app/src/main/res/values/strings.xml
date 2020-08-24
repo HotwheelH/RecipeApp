@@ -18,6 +18,13 @@
     <string name="poachedEggsIngredients">Water \n 2 Eggs</string>
     <string name="poachedEggsMethod">Stovetop Method: \n Stovetop Method: Fill saucepan with about 3 inches (8 cm) of water. Heat until water simmers gently. Break cold egg into small dish or saucer. Holding dish just above simmering water, gently slip egg into water. Repeat for remaining eggs. Cook in barely simmering water until white is set and yolk is cooked as desired, 3 to 5 minutes. Remove eggs with slotted spoon and drain well.
     \n \n  Microwave Method: \n Pour 1/3 cup (75 mL) water into small deep bowl. Bring to boil on High (100% power). Break eggs and slip into water, one at a time. Pierce yolk membrane with fork. Cover with plastic wrap, leaving small steam vent. Cook until white is set and yolk is cooked as desired, 40 to 60 seconds. Let stand, covered, for 1 minute. Drain and serve.</string>
+
+    <string name="spicyAvocadoWrapsTitle">Spicy Avocado Wraps</string>
+    <string name="spicyAvocadoWrapsIngredients">0.5 x 300g pack Quorn chicken-style pieces (or similar vegetarian product) \n generous squeeze juice 0.5 lime \n ½ tsp mild chilli powder \n 1 garlic clove , chopped \n
+    \n 1 tsp olive oil \n 2 seeded wraps  \n 1 avocado , halved and stoned \n 1 roasted red pepper , from a jar \n few sprigs coriander , chopped</string>
+    <string name="spicyAvocadoWrapsMethod">1. Mix the vegetarian, chicken-style pieces with the lime juice, chilli powder and garlic. \n 2. Heat the oil in a non-stick frying pan then fry the pieces for a couple of mins, while you warm the wraps following the pack instructions or if you have a gas hob, heat them over the flame to slightly char them. Do not let them dry out or they are difficult to roll.
+    \n Squash half an avocado onto each wrap, add the peppers to the pan to warm them through then pile onto the wraps with the chicken-style pieces, and sprinkle over the coriander. Roll up, cut in half and eat with your fingers.</string>
+
     <string name="title_activity_second">SecondActivity</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
